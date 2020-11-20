@@ -1,0 +1,9 @@
+{
+	"gufy/pdftohtml-php":"~2",
+	"require": {
+		"gufy/pdftohtml-php": "~2",
+		"dompdf/dompdf": "^0.8.6",
+		"setasign/fpdi": "^2.3",
+		"setasign/fpdf": "^1.8"
+	}
+}
